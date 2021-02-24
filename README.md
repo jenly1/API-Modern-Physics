@@ -1,6 +1,6 @@
 # Modern Physics
 
-This physics API enables one to compute frequently used equations in the physics course "SH1014 Modern Fysik" (see formulary) and receive basic information about the elementary particles in the Standard Model and its four fundamental forces.  
+This physics API enables one to compute frequently used equations in the physics course [SH1014 - Modern Physics](https://www.kth.se/student/kurser/kurs/SH1014?l=en) (see formulary) and receive basic information about the elementary particles in the Standard Model and its four fundamental forces.  
 
 The module will cover the following areas:
 
